@@ -18,7 +18,7 @@
 ### [네트워크]
 | 제목 | 중요도 |
 |-------|-------|
-|  |  |
+| [VPN](https://hyeonstone.tistory.com/entry/%EC%A0%84%EC%9A%A9-%ED%9A%8C%EC%84%A0%EA%B3%BC-%EA%B0%80%EC%84%A4-%EC%82%AC%EC%84%A4%EB%A7%9DVPN) | ⭐⭐ |
 
 ### [핀테크 지식]
 | 제목 | 중요도 |
